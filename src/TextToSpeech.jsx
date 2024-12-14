@@ -68,7 +68,7 @@ const TextToSpeech = () => {
     <div className="min-h-screen bg-gray-900 flex items-center justify-center p-4">
       <div className="w-full max-w-xl bg-gray-800 rounded-lg shadow-lg p-6 space-y-6">
         <h1 className="text-2xl font-bold text-white text-center">
-          Text to Speech by PRINCE
+          Text to Speech
         </h1>
 
         <div className="space-y-4">
