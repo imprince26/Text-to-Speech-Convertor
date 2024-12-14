@@ -2,6 +2,9 @@
 
 A simple and intuitive Text-to-Speech converter built with React and Tailwind CSS. This application allows users to enter text and convert it into speech using various voice options.
 
+## Live Link
+- https://text-to-speech-topaz-three.vercel.app/
+
 ## Features
 
 - Convert text to speech using different voices (English US, English UK, English Indian, and Hindi).
